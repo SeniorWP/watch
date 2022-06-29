@@ -14,6 +14,9 @@ import Orders from './pages/Orders'
 
 const arr = [1, 2, 3, 4, 5]
 
+
+const obj = { name: 'Вася'}
+
 function App() {
   // кросовки
   const [items, setItems] = React.useState([]);
