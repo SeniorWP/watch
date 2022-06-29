@@ -12,6 +12,8 @@ import Favorites from './pages/Favorites';
 import Orders from './pages/Orders'
 
 
+const arr = [1, 2, 3, ]
+
 function App() {
   // кросовки
   const [items, setItems] = React.useState([]);
