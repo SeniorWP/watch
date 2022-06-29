@@ -12,7 +12,7 @@ import Favorites from './pages/Favorites';
 import Orders from './pages/Orders'
 
 
-const arr = [1, 2, 3, ]
+const arr = [1, 2, 3, 4, 5]
 
 function App() {
   // кросовки
